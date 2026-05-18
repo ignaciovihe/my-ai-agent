@@ -54,4 +54,4 @@ The repository includes several test scripts to validate core functionalities [1
 
 > [!WARNING]
 > ## ⚖️ Disclaimer
-> [!CAUTION] This project is for educational purposes only. Executing arbitrary code or allowing an AI to modify your local file system is inherently risky. Always run this project in a sandboxed environment.
+> This project is for educational purposes only. Executing arbitrary code or allowing an AI to modify your local file system is inherently risky. Always run this project in a sandboxed environment.
