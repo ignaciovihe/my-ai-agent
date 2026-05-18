@@ -1,15 +1,15 @@
 # My AI Agent (Experimental Project)
 
 > [!WARNING]  
-> **CRITICAL SECURITY NOTICE:** This repository is a **proof of concept** and a **testing project**. It is **NOT** production-ready and lacks comprehensive security measures. The codebase includes tools for file system manipulation and external code execution (such as `run_python_file.py`), which can be dangerous if used in an untrusted environment [1]. **Use this code at your own risk and never deploy it without a thorough security audit.**
+> **CRITICAL SECURITY NOTICE:** This repository is a **proof of concept** and a **testing project**. It is **NOT** production-ready and lacks comprehensive security measures. The codebase includes tools for file system manipulation and external code execution (such as `run_python_file.py`), which can be dangerous if used in an untrusted environment. **Use this code at your own risk and never deploy it without a thorough security audit.**
 
 ## Overview
 
-This project is an experimental AI agent developed 100% in **Python** [2]. It demonstrates a modular architecture for an agentic system capable of interacting with its environment through mathematical tools and file management capabilities.
+This project is an experimental AI agent developed 100% in **Python**. It demonstrates a modular architecture for an agentic system capable of interacting with its environment through mathematical tools and file management capabilities.
 
 ## 🛠 Project Structure
 
-Based on the repository files, the project is organized as follows [1]:
+Based on the repository files, the project is organized as follows:
 
 *   **`main.py`**: The core entry point for the application.
 *   **`functions/`**: Contains the logic for the agent's tools and operations.
@@ -22,7 +22,7 @@ Based on the repository files, the project is organized as follows [1]:
 
 ### Prerequisites
 
-*   Python 3.x (managed via `.python-version`) [1].
+*   Python 3.x (managed via `.python-version`).
 *   [uv](https://github.com/astral-sh/uv) package manager.
 
 ### Installation
@@ -45,7 +45,7 @@ Based on the repository files, the project is organized as follows [1]:
 
 ## 🧪 Testing
 
-The repository includes several test scripts to validate core functionalities [1]:
+The repository includes several test scripts to validate core functionalities:
 *   `test_get_file_content.py`
 *   `test_get_files_info.py`
 *   `test_run_python_file.py`
